@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode)
 
 
-My name is Diakko. Thank you, TRIGGER!!
+Thank you, TRIGGER!!
 
 
 ![Image trigger](trigger.png)
